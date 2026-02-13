@@ -1,0 +1,10 @@
+{
+  "itemGroup.convey": "Create Convey",
+
+  "convey.configuration.title": "Create Convey Configs",
+  "convey.configuration.section.convey.common.toml": "Create Convey Configs",
+  "convey.configuration.section.convey.common.toml.title": "Create Convey Configs",
+  "convey.configuration.items": "Item List",
+
+  "block.convey.andesite_roller_conveyor_horizontal": "Roller Conveyor"
+}

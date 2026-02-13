@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "convey:block/andesite_roller_conveyor_horizontal" },
+    "facing=east":  { "model": "convey:block/andesite_roller_conveyor_horizontal", "y": 90 },
+    "facing=south": { "model": "convey:block/andesite_roller_conveyor_horizontal", "y": 180 },
+    "facing=west":  { "model": "convey:block/andesite_roller_conveyor_horizontal", "y": 270}
+  }
+}
